@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400" fill="currentColor">
+  <!-- AL Monogram Logo - Alex Lin -->
+  <!-- 1. Detached Bottom-Left Serif Triangle of 'A' -->
+  <polygon points="50,320 106,320 106,264" />
+
+  <!-- 2. Upper Left Diagonal Stroke of 'A' -->
+  <polygon points="105,210 176,80 193,80 122,210" />
+
+  <!-- 3. Main Central Stem of 'A' with Flared Serif Base -->
+  <path d="M 175 80 L 200 80 L 290 260 C 298 285 308 310 328 320 L 218 320 C 238 310 248 285 244 260 L 175 80 Z" />
+
+  <!-- 4. Top Serif Spur of 'L' -->
+  <path d="M 225 80 L 335 80 C 315 95 292 115 280 160 C 268 115 245 95 225 80 Z" />
+
+  <!-- 5. Sweeping Bottom-Right Serif Terminal of 'L' -->
+  <path d="M 355 320 C 408 320 436 275 444 225 C 434 265 406 308 355 320 Z" />
+</svg>

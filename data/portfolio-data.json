@@ -1,0 +1,124 @@
+{
+  "profile": {
+    "name": "Alex Lin",
+    "title": "Student & Software Engineer",
+    "headline": "Architecting systems with craft, restraint, and tactile precision.",
+    "email": "alex.lin@berkeley.edu",
+    "location": "Berkeley, CA",
+    "status": "Available F/T 2025",
+    "university": "UC Berkeley",
+    "classOf": "2025",
+    "gpa": "3.90 / 4.00",
+    "major": "EECS + Jacobs HCI",
+    "studentsTaught": "120+ Undergrads",
+    "socials": {
+      "github": "https://github.com/alexlin-cal",
+      "linkedin": "https://linkedin.com/in/alexlin-eecs",
+      "twitter": "https://x.com/alexl_design",
+      "substack": "https://substack.com"
+    }
+  },
+  "coursework": [
+    {
+      "id": "cs61a",
+      "code": "CS 61A",
+      "title": "Structure and Interpretation of Computer Programs",
+      "grade": "A+",
+      "instructor": "John DeNero",
+      "description": "Functional programming paradigms, interpreters, abstraction barriers, and recursion theory."
+    },
+    {
+      "id": "cs61b",
+      "code": "CS 61B",
+      "title": "Data Structures & Algorithms",
+      "grade": "A+",
+      "instructor": "Josh Hug",
+      "description": "Asymptotic analysis, balanced search trees, graph algorithms, memory hierarchies, and amortized bounds."
+    },
+    {
+      "id": "cs61c",
+      "code": "CS 61C",
+      "title": "Machine Structures",
+      "grade": "A",
+      "instructor": "Dan Garcia",
+      "description": "RISC-V architecture, cache coherence, SIMD parallelism, C memory management, and pipeline design."
+    },
+    {
+      "id": "cs161",
+      "code": "CS 161",
+      "title": "Computer Security",
+      "grade": "A",
+      "instructor": "Nicholas Weaver",
+      "description": "Cryptography, memory safety exploits, web security, TLS, network protocols, and authentication."
+    },
+    {
+      "id": "desinv10",
+      "code": "DES INV 10",
+      "title": "Discovering Design",
+      "grade": "A+",
+      "instructor": "Jacobs Institute",
+      "description": "Human-centered design, iterative physical prototyping, ergonomics, and visual hierarchy."
+    }
+  ],
+  "experience": [
+    {
+      "id": "berkeley-mobile",
+      "role": "Lead Interface Engineer",
+      "organization": "Berkeley Mobile (ASUC)",
+      "period": "Aug 2023 – Present",
+      "location": "Berkeley, CA",
+      "bullets": [
+        "Architected core design system and mobile UI serving 40,000+ active UC Berkeley students daily.",
+        "Optimized transit routing and dining hall cache layers, cutting load times by 48%."
+      ]
+    },
+    {
+      "id": "cal-hacks",
+      "role": "Director of Technical Experience",
+      "organization": "Cal Hacks",
+      "period": "Jan 2023 – Present",
+      "location": "San Francisco / Berkeley",
+      "bullets": [
+        "Built internal judging portals and hacker dashboard for the world's largest collegiate hackathon (2,500+ attendees).",
+        "Mentored student engineering teams on modern cloud architecture, APIs, and product polish."
+      ]
+    },
+    {
+      "id": "eecs-ta",
+      "role": "Undergraduate Teaching Assistant",
+      "organization": "UC Berkeley EECS Department",
+      "period": "Jan 2024 – Present",
+      "location": "Berkeley, CA",
+      "bullets": [
+        "Instructed weekly discussion sections and labs for 120+ students in foundational CS coursework.",
+        "Authored exam questions, debugging rubrics, and automated grading autograders."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "berkeley-transit",
+      "title": "BearTransit Live",
+      "category": "Systems & Mobile",
+      "description": "Real-time campus shuttle telematics tracker with sub-second WebSocket updates and predictive arrival modeling.",
+      "techStack": ["TypeScript", "React Native", "Go", "WebSockets"],
+      "metrics": "40K+ Daily Active Users"
+    },
+    {
+      "id": "neura-canvas",
+      "title": "NeuraCanvas",
+      "category": "HCI & Creative Tools",
+      "description": "High-performance vector canvas for generative interface wireframing powered by WebGL and WebAssembly.",
+      "techStack": ["Rust", "WASM", "WebGL", "Tailwind CSS"],
+      "metrics": "60 FPS 10k+ nodes"
+    },
+    {
+      "id": "tactile-ui",
+      "title": "Tactile Design System",
+      "category": "Design System",
+      "description": "Minimalist token-driven design library emphasizing micro-interactions, dark mode contrast, and tactile feedback.",
+      "techStack": ["HTML5", "CSS3", "JavaScript", "Tailwind"],
+      "metrics": "1.2k GitHub Stars"
+    }
+  ]
+}
